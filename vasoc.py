@@ -1,0 +1,5 @@
+print("Olá Pessoas")
+print("Este site é para gato nervoso")
+print("Primeiro passo: coçar o cú por cima antes da cauda")
+print("Segundo passo: dar papinhas de saqueta de sopa, dependendo do teu gato/a ele/ela pode só lamber ou comer tudo")
+print("Terceiro passo: começar a cantar coma a voz a \"tremer\"")
